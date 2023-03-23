@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ef"]
+	path = ef
+	url = https://github.com/cran/ef
+	shallow = true
+	registered = true
+[submodule "icesConnect"]
+	path = icesConnect
+	url = https://github.com/cran/icesConnect
+	shallow = true
+	registered = true
+[submodule "icesSD"]
+	path = icesSD
+	url = https://github.com/cran/icesSD
+	shallow = true
+	registered = true
+[submodule "rct3"]
+	path = rct3
+	url = https://github.com/cran/rct3
+	shallow = true
+	registered = true
