@@ -8,9 +8,6 @@
 [submodule "icesConnect"]
 	path = icesConnect
 	url = https://github.com/cran/icesConnect
-[submodule "icesSD"]
-	path = icesSD
-	url = https://github.com/cran/icesSD
 [submodule "rct3"]
 	path = rct3
 	url = https://github.com/cran/rct3
